@@ -4,7 +4,7 @@ organization := "com.github.fractal"
 
 version := "1.0"
 
-scalaVersion := "2.11.0"
+scalaVersion := "2.11.1"
 
 //Define dependencies. These ones are only required for Test and Integration Test scopes.
 libraryDependencies ++= Seq(
