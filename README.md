@@ -5,7 +5,7 @@ This project aims to simplify creating a project from scratch.It's simpler than 
 It provides a simple way to configure:
 
      Scala 2.11.1
-     SBT 0.13.2
+     SBT 0.13.5
      ScalaTest 2.1.6
      ScalaCheck 1.11.4
      IntelliJ IDEA 
